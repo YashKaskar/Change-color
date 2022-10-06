@@ -1,0 +1,19 @@
+#btn{       
+    text-align: center;
+    border: 2px solid gray;
+    font-size: 19px;
+    font-style: italic;
+    margin-top: 19rem;
+    margin-left: 44rem;
+}
+
+h1{ 
+    text-align: center;
+}
+
+h2{
+        text-align: center;
+        border: 2px solid gray;
+        background-color: antiquewhite;
+        color: black;
+}
