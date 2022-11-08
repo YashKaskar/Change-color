@@ -1,20 +1,15 @@
-#btn{       
-    text-align: center;
-    border: 2px solid gray;
-    font-size: 19px;
-    font-style: italic;
-    margin-top: 19rem;
-    
+*{  
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
 }
 
-h1{ 
-    text-align: center;
+.div{   
+     text-align: center;
+     margin-top: 9rem;
 }
 
-h2{
-        text-align: center;
-        border: 2px solid gray;
-        background-color: antiquewhite;
-        color: black;
+button{ 
+    margin-top: 3rem;
 }
 
