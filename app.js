@@ -17,3 +17,4 @@ const newRandomColor = () =>{
 
      return `rgb(${r}, ${g}, ${b})`
 }
+ 
